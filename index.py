@@ -1,1 +1,1 @@
-Hello Kushal
+print("Hello Kushal")
